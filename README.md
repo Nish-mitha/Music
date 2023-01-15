@@ -1,5 +1,7 @@
 
-# :musical_note: Music :musical_note:
+![Header](assets/images/music_demo.gif)
+
+# :musical_note: Rythm :musical_note:
 ### :notes: Muisc Streaming Application made using Tkinter, mutagen, ttkthemes and Python. :notes:
 + ** In this Application you can add/remove music and play, pause, rewind, unmute, mute songs.
 
